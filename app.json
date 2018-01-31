@@ -28,7 +28,7 @@
 			"description": "Which mail service/API you will be using (i.e. SparkPost, Mandrill, etc)",
 			"value": "SendGrid"
 		},
-		"CREATE_ADMIN": {
+		"CREATE_ADMIN_ACCOUNT": {
 			"description": "Setting this variable will create a admin user on startup with credentials as specified below",
 			"value": "TRUE"
 		}
